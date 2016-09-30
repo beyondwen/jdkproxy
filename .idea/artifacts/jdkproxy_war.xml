@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jdkproxy:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jdkproxy.war">
+      <element id="artifact" artifact-name="jdkproxy:war exploded" />
+    </root>
+  </artifact>
+</component>
